@@ -20,10 +20,6 @@ Passionate about embedded firmware, IoT, and real-time systems. Hands-on experie
 **Protocols:** UART, SPI, I2C, GPIO, PWM, WiFi, MQTT  
 **Tools:** Keil IDE, MPLAB X, VS Code, Proteus, Wokwi, Git, GCC/Make  
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
 ## 🎯 Experience  
 - **Embedded Systems Intern, Emertxe Technologies (Oct-Dec 2022):** Reduced FSM cycle time by 35% on PIC with UART/SPI drivers under FreeRTOS for IoT prototypes.  
 - **Embedded Systems Intern, Plasmid Technologies (Oct-Dec 2024):** Improved ISR stability by 75% on 8051; optimized ARM boot time by 20%.  
