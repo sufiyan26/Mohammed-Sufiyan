@@ -1,4 +1,4 @@
-# Mohammed Sufiyan  
+# Mohammed-Sufiyan  
 **Embedded Systems Engineer | B.Tech EEE | MJCET Hyderabad | Fresher**  
 
 Passionate about embedded firmware, IoT, and real-time systems. Hands-on experience with ARM/8051/ESP32 microcontrollers, C/C++ programming, and protocols like UART/SPI/I2C through internships and projects. Seeking entry-level roles in embedded/IoT engineering. Open to collaborations!  
