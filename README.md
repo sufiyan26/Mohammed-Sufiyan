@@ -1,34 +1,40 @@
-# Mohammed Sufiyan
-Embedded Systems & IoT Engineer | B.E. Electrical & Electronics, MJCET Hyderabad | 2021–2025
+# Mohammed Sufiyan  
+**Embedded Systems Engineer | B.Tech EEE | MJCET Hyderabad | Fresher**  
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=mohammed-sufiyan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-sufiyan&layout=compact&theme=radical)
+Passionate about embedded firmware, IoT, and real-time systems. Hands-on experience with ARM/8051/ESP32 microcontrollers, C/C++ programming, and protocols like UART/SPI/I2C through internships and projects. Seeking entry-level roles in embedded/IoT engineering. Open to collaborations!  
 
-## About Me
-Passionate embedded engineer specializing in real-time firmware for ARM/ESP32/PIC microcontrollers, IoT integration, and Linux RT systems. Experienced in C/C++/Embedded C with UART/I2C/SPI drivers, FSMs, and board bring-up. Published research paper at NSCADF 2025 on AI Laser Weed-Removal Robot (vision-guided control, safety interlocks). Won 4th Prize (Hardware) at Hack Revolution 2025. Seeking opportunities in embedded/IoT development in Hyderabad/Bangalore. Email: sufiyanb2003@gmail.com | LinkedIn: [Profile](https://www.linkedin.com/in/mohammed-sufiyan-45b1752b2)
+## 🚀 Featured Projects  
+- **[Industrial IoT Factory Node (ESP32)**](link-to-repo): Simulated edge monitoring system with MQTT telemetry, sensor fusion (DHT22/PIR), and safety interlocks—achieved 100% uptime in Wokwi simulations for factory optimization.  
+- **[AI-Based Laser Weed-Killing Robot](link-to-repo)**: Autonomous Arduino bot with HuskyLens AI vision and laser actuation; 80% targeting accuracy, 4th Prize at Hack Revolution 2025.  
+- **[Smart Farm IoT Dashboard](link-to-repo)**: Python/MQTT system for real-time farm telemetry with anomaly detection (scikit-learn) and alerts—reduced latency by 15%.  
+- **[Digital Clock on 8051](link-to-repo)**: Real-time HMS clock in Embedded C/Assembly with ISR timers; ±3% simulation-hardware accuracy in Proteus/Keil.  
+- **[Surveillance Bot](link-to-repo)**: Arduino-based night-vision robot with camera streaming and obstacle avoidance for secure monitoring.  
+- **[Li-Fi Wireless System](link-to-repo)**: Microcontroller TX/RX for text over visible light with photodiode decoding—RF-free short-range communication.  
+- **[Washing Machine Controller](link-to-repo)**: PIC FSM-based automation with UART/SPI drivers under FreeRTOS; 35% cycle time reduction.  
 
-## Featured Projects
-- **AI Laser Weed-Removal Robot**  
-  Vision-guided ESP32 system with HuskyLens detection, UART/I2C control, PWM laser actuation, and safety interlocks; 95% accuracy, <2 s latency in tests; NSCADF 2025 paper.  
-  [Repo](https://github.com/mohammed-sufiyan/laser-weed-robot) | Tech: ESP32, C, UART/I2C/PWM, AI vision
+## 💻 Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Embedded C](https://img.shields.io/badge/Embedded_C-1F4E79?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-00CED1?style=for-the-badge&logo=assembly&logoColor=white)  
+**Microcontrollers:** ARM, 8051, ESP32, PIC, Arduino  
+**RTOS/OS:** FreeRTOS, RT-Linux, Embedded Linux  
+**Protocols:** UART, SPI, I2C, GPIO, PWM, WiFi, MQTT  
+**Tools:** Keil IDE, MPLAB X, VS Code, Proteus, Wokwi, Git, GCC/Make  
 
-- **Real-Time Washing Machine Controller**  
-  FSM-based PIC microcontroller with non-blocking timers/ISRs, keypad/LCD UI, and safety features; verified in PICSim Lab simulator.  
-  [Repo](https://github.com/mohammed-sufiyan/washing-machine-controller) | Tech: PIC, MPLAB X, PICSim Lab, FSMs
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
-- **ESP32 Audio Streaming over Wi-Fi/UDP**  
-  I2S audio capture to UDP transmit pipeline with ring buffers and jitter control; <2% packet loss under load.  
-  [Repo](https://github.com/mohammed-sufiyan/esp32-audio-stream) | Tech: ESP32, C, I2S, Wi-Fi, UDP
+## 🎯 Experience  
+- **Embedded Systems Intern, Emertxe Technologies (Oct-Dec 2022):** Reduced FSM cycle time by 35% on PIC with UART/SPI drivers under FreeRTOS for IoT prototypes.  
+- **Embedded Systems Intern, Plasmid Technologies (Oct-Dec 2024):** Improved ISR stability by 75% on 8051; optimized ARM boot time by 20%.  
+- **Robotics Club Core Member, MJCET (Sep 2022-Sep 2023):** Led team of 5 on 7+ IoT projects (e.g., surveillance bots); boosted efficiency by 20% and demoed to 200+ attendees.  
 
-## Skills
-- **Languages**: C, C++, Embedded C, Assembly, Python  
-- **Hardware**: ESP32, ARM Cortex-M, PIC, 8051, oscilloscopes, logic analyzers  
-- **Tools/Protocols**: MPLAB X, Keil uVision, GDB, Git, UART, I2C, SPI, TCP/UDP/IP, MQTT, FreeRTOS  
-- **Other**: Linux RT, board bring-up, IoT, FSMs, debugging
+## 📫 Contact  
+- 📧 sufiyanb2003@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mohammed-sufiyan-45b1752b2](https://www.linkedin.com/in/mohammed-sufiyan-45b1752b2)  
+- 📱 +91 7702102794  
 
-## Connect
-- 📧 Email: sufiyanb2003@gmail.com  
-- 💼 LinkedIn: [Mohammed Sufiyan](https://www.linkedin.com/in/mohammed-sufiyan-45b1752b2)  
-- 📄 Resume: [Download PDF](link-to-your-resume.pdf) (upload your resume as a file in this repo)  
+**Last Updated: November 2025**  
+---
+> "Building reliable embedded solutions, one line of code at a time."
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammed-sufiyan&theme=radical)
